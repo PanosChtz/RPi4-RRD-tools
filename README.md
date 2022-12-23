@@ -24,3 +24,21 @@ This is a set of monitoring tools, tailored for a Raspberry Pi 4 running Ethereu
 * * * * * /home/user/path-to-script/collect_1m.sh
 2 * * * * /home/user/path-to-script/collect_1h.sh
 ```
+
+## Example output graphs
+
+###### System load
+
+![alt text](https://github.com/PanosChtz/RPi4-RRD-tools/blob/master/graphs/load1d.png?raw=true)
+
+###### Memory usage
+
+![alt text](https://github.com/PanosChtz/RPi4-RRD-tools/blob/master/graphs/mem1d.png?raw=true)
+
+###### CPU and SSD temperature
+
+![alt text](https://github.com/PanosChtz/RPi4-RRD-tools/blob/master/graphs/temp1d.png?raw=true)
+
+###### SSD usage and health
+
+![alt text](https://github.com/PanosChtz/RPi4-RRD-tools/blob/master/graphs/disk1m.png?raw=true)
